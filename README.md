@@ -5,6 +5,6 @@ Currently this streams in WebM format.
 
 USAGE:
 
-python castinet_mediaserver.py [<Path to media>] [<Port>]
+python castinet_mediaserver.py [\<Path to media\>] [\<Port\>]
 
 
